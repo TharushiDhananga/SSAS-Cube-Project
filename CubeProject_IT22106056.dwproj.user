@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Contoso DW</Id>
+            <Name>Contoso DW</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANuRgVGcoF0+6/OkkIJ2z1gAAAAAWAAAAQwBvAG4AdABvAHMAbwAgAEQAVwAAABBmAAAAAQAAIAAAANV9Ccz2+ke9Hc0d0lH7RbZivMLd5utShfxQFp/IqqaPAAAAAA6AAAAAAgAAIAAAABAd12u9znEfLypV50/xHa/zGcQYboq0Js+OhVD7eQB2IAAAAJIXSmc2H6cLd8eBQBxNq7m+bSsuJfKYUSOrK/99/k2oQAAAAGv2HRiuLwFgHvHgS1+tqLE14gsLph2XIH+UT+O/j2+40+UCIDjJHAp1+iNgXclWNUzc2izBKlpSySYJjTozGww=</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Contoso DW</Id>
+            <Name>Contoso DW</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANuRgVGcoF0+6/OkkIJ2z1gAAAAAWAAAAQwBvAG4AdABvAHMAbwAgAEQAVwAAABBmAAAAAQAAIAAAAMoh/Uz4quxeISuIjMLTJu0dp6ZL9U01xz8bJ5kCy1msAAAAAA6AAAAAAgAAIAAAAMbnoEcX81Gcyf+jqkSSxhP10XoKgoTmGLYynFVAtpQ8IAAAAA/VFt0AWETMatomJiRd/UW2cRgGEUd5IdtkAA6vzSqYQAAAAGgmkGB6FV86XQWiGoee6k2Ap8TexK8WaStEYKLB4vaMY5Mo1YRgQQARY8K4Ht4AwGxz2O1qIKPuJ6yS9YUKMsw=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>localhost</TargetServer>
+        <TargetDatabase>CubeProject_IT22106056</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
